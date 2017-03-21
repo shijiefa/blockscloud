@@ -2,6 +2,20 @@
 
 这个系统从2014年最初的idea到2017年已经有两年半的时间了，时光荏苒。作者是一个php程序员，开发过程中总是为找一个好的、可扩展的后台模板而苦恼，积木云的早期版本使用了芒果云+onethink整合，但碍于芒果云不提供源码以及TP官方对onethink放弃支持，造成了旧版本积木云维护的异常困难。于是作者在2016年用更先进的laravel和vue重写了所有代码。开源不易，请尊重版权！ 
 
+##PHP版本要求
+
+PHP版本 >= 5.6.4
+PHP扩展：OpenSSL
+PHP扩展：PDO
+PHP扩展：Mbstring
+PHP扩展：Tokenizer
+
+##支持的服务器和数据库环境
+
+支持Windows/Unix服务器环境
+可运行于包括Apache、IIS和nginx在内的多种WEB服务器和模式
+支持Mysql、MsSQL数据库和连接
+
 ## 安装说明
 
 首先需要将web环境的默认目录指向public目录
