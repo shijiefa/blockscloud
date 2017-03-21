@@ -4,17 +4,17 @@
 
 ## PHP版本要求
 
-PHP版本 >= 5.6.4
-PHP扩展：OpenSSL
-PHP扩展：PDO
-PHP扩展：Mbstring
-PHP扩展：Tokenizer
+- PHP版本 >= 5.6.4
+- PHP扩展：OpenSSL
+- PHP扩展：PDO
+- PHP扩展：Mbstring
+- PHP扩展：Tokenizer
 
 ## 支持的服务器和数据库环境
 
-支持Windows/Unix服务器环境
-可运行于包括Apache、IIS和nginx在内的多种WEB服务器和模式
-支持Mysql、MsSQL数据库和连接
+- 支持Windows/Unix服务器环境
+- 可运行于包括Apache、IIS和nginx在内的多种WEB服务器和模式
+- 支持Mysql、MsSQL数据库和连接
 
 ## 安装说明
 
